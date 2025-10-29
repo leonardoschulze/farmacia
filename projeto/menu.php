@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Loja do seu Zé</title>
+    <title>Farmácia Vila Boa</title>
     <link rel="stylesheet" href="../style.css">
 </head>
 
@@ -16,7 +16,7 @@
             <a class="logo" href="/">Farmácia Boa Vida</a>
             <ul class="nav-list">
                 <li><a href="">Início</a></li>
-                <li><a href="sobre.html">Adicionar</a></li>
+                <li><a href="adicionar.php">Adicionar</a></li>
             </ul>
         </nav>
     </header>

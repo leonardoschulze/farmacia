@@ -9,6 +9,7 @@ CREATE TABLE remedios (
     nome varchar(100) not null,
     quantidade varchar(100) not null,
     definicao varchar(255) not null
+    preco varchar(100) not null
 );
 
 insert into usuario (nome, senha) values
